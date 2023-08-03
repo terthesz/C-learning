@@ -34,8 +34,9 @@ int main() {
 
     last_node = node;
   };
+  sdfsdfs
 
-  for (int i = 0; i < 2; i++) {
+      for (int i = 0; i < 2; i++) {
     struct Node *current_node = list.node;
     while (current_node != NULL) {
       printf("%ld ", current_node->number);
