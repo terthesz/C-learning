@@ -34,7 +34,7 @@ int main() {
 
     last_node = node;
   };
-  sdfsdfs
+  sdfsdfsfsdf
 
       for (int i = 0; i < 2; i++) {
     struct Node *current_node = list.node;
